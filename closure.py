@@ -27,7 +27,6 @@ def makeitalic(fn):
 def hello():
     return "hello world"
 
-
 if __name__ == "__main__":
     #sample 1
     # p = make_adder(23)
